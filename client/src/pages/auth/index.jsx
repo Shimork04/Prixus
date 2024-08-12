@@ -12,7 +12,7 @@ const Auth = () => {
                 className="text-5xl font-bold md:text-5.5xl font-montserrat"
               >
                 {" "}
-                Welcome to Prixus
+                Welcome to Prixus - the ultimate Chat App
               </h1>
               {/* this image is right-hand side image for the main page or auth page */}
               <img src="" alt=""/>
